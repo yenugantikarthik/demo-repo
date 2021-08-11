@@ -15,4 +15,6 @@ print(ne)
 b = ''
 for i in ne :
      b = b+i
-print(b)       
+print(b)   
+
+#this Code os a demo for python string operations
